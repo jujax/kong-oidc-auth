@@ -1,5 +1,5 @@
 package = "kong-oidc-auth"
-version = "0.3-0"
+version = "0.3.1-0"
 source = {
    url = "git+https://github.com/Optum/kong-oidc-auth.git"
 }
